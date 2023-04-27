@@ -15,7 +15,7 @@ Estou disponível para oportunidades como estagiário, trainee ou jr<br>
 
 
 
-
+/*/
 
 <br><div align="center">
  
@@ -25,7 +25,7 @@ Estou disponível para oportunidades como estagiário, trainee ou jr<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoGabriel123&layout=compact&langs_count=7&theme=dark"/>
 
   
-   
+   /*/
 
     
  
