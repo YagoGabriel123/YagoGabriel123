@@ -49,7 +49,7 @@ Estou disponível para oportunidades como estagiário, trainee ou jr<br>
    <h2>Outras tecnologias de interesse</h2>
    
  
-   <img height ="70" width="70" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" />
+  /* <img height ="70" width="70" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" /> */
    <img height ="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
        <img height ="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height ="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
